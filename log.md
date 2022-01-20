@@ -7,7 +7,7 @@
 **Thoughts** New year, renewed commitment. Day one of a hundred days straight of coding in the books! A focus on sharpening my responsive design, CSS, modern JavaScript, and React skills are all in order. I've been working with HTML, CSS, and a little bit of JavaScript and jQuery for a while, but it's time to really commit to ramping up my code skills and moving beyond the basics, heading toward a new career in software development. 
 
 **Link(s) to work**
-1. [Skillcrush JS]("https://skillcrush.com/break-into-tech-blueprint/");
+1. [Skillcrush JS](https://skillcrush.com/break-into-tech-blueprint/);
 
 
 
@@ -40,4 +40,4 @@
 
 **Link(s) to work**
 
-1. [Skillcrush JS Exercise - complete]("https://github.com/MattPahuta/js-l12-practice-exercise-01");
+1. [Skillcrush JS Exercise - complete](https://github.com/MattPahuta/js-l12-practice-exercise-01);
