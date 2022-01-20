@@ -7,7 +7,7 @@
 **Thoughts** New year, renewed commitment. Day one of a hundred days straight of coding in the books! A focus on sharpening my responsive design, CSS, modern JavaScript, and React skills are all in order. I've been working with HTML, CSS, and a little bit of JavaScript and jQuery for a while, but it's time to really commit to ramping up my code skills and moving beyond the basics, heading toward a new career in software development. 
 
 **Link(s) to work**
-1. [Skillcrush JS]()
+1. [Skillcrush JS]("https://skillcrush.com/break-into-tech-blueprint/");
 
 
 
@@ -18,7 +18,7 @@
 **Thoughts** Working with data through APIs is something I really need and want to focus on over the next few months. The Skillcrush course is providing a nice re-entry into some concepts I haven't looked at in a while. 
 
 **Link(s) to work**
-1. [Kevin Powell CSS Grid Card Gallery project](h)
+1. [Kevin Powell CSS Grid Card Gallery project]()
 
 
 
@@ -31,3 +31,13 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String]()
 2. [JavaScript Dice Game]()
+
+### Day 4: January 20, Thursday
+
+**Today's Progress**: Continued to practice JS fundamentals with the Launch School JS100 prep exercises and worked through some async function exercises for the Skillcrush JavaScript course.
+
+**Thoughts** Working with APIs, actually getting some dynamic data back from the JS code I write, turns out is pretty fun. Looking forward to nailing down the syntax with some more practice and figuring out some fun personal projects to work on.
+
+**Link(s) to work**
+
+1. [Skillcrush JS Exercise - complete]("https://github.com/MattPahuta/js-l12-practice-exercise-01");
