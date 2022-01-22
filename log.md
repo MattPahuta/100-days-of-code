@@ -1,14 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 6: January 22, Saturday
+<!-- ### Day 7: January 23, Sunday
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts**  -->
+
+
+### Day 6: January 22, Saturday
+
+**Today's Progress**: Finished up that snake game over on Scrimba, which was the last bit of module 4 of the frontend dev path. Also checked out Just JavaScript (I'm intrigued) and moved some local VS code over to Codepen.
+
+**Thoughts** Feeling pretty good about the Scrimba path and confident I'll be able to finish the whole thing within a couple months, give or take. 
 
 **Link(s) to work**
 
-1. [Skillcrush JS Exercises - complete]()
+1. [Scrimba Snake Game Project](https://codepen.io/mattpahuta/pen/JjrgLmP)
+2. [CSS Grid IMage Cards](https://codepen.io/mattpahuta/pen/yLzmKwQ)
 
 
 ### Day 5: January 21, Friday
