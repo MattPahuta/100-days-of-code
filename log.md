@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-<!-- ### Day 7: January 23, Sunday
+### Day 7: January 22, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Worked through module 5 of the Scrimbe frontend dev career path, responsive design challenges. 
 
-**Thoughts**  -->
+**Thoughts** Starting to get more comfortable with CSS specificity principles and learned about a new CSS property, currentColor.
 
 
 ### Day 6: January 22, Saturday
