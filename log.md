@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 7: January 22, Saturday
+### Day 8: January 24, Monday
 
-**Today's Progress**: Worked through module 5 of the Scrimbe frontend dev career path, responsive design challenges. 
+**Today's Progress**: Finished module 5 of the Scrimba frontend dev career path with a few more responsive design challenges and a bit of JavaScript. Finished the the last two Skillcrush JS exercises, focussed on async/await functions, interacting with APIs.
+
+**Thoughts**  Ready to start in on the next big Skillcrush JS project tomorrow, supplementing with continued work along the Scrimba path and Colt Steele's Udemy JS course. Looking forward to doing more project-oriented work in the weeks ahead.
+
+**Link(s) to work**
+
+1. [Skillcrush JS API Exercise 2](https://codepen.io/mattpahuta/pen/qBVWgPV?editors=1010)
+2. [Skillcrush JS API Exercise 3](https://codepen.io/mattpahuta/pen/bGYbzRy)
+
+
+### Day 7: January 23, Sunday
+
+**Today's Progress**: Worked through module 5 of the Scrimba frontend dev career path, responsive design challenges. 
 
 **Thoughts** Starting to get more comfortable with CSS specificity principles and learned about a new CSS property, currentColor.
 
