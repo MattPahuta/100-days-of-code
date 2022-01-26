@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 26, Wednesday
+
+**Today's Progress**: Nearly completed the Skillcrush word guessing game project, adding dynamic elements and most of the needed DOM features. More practice with loops, conditionals, string/array methods, and a bit of async functions. I should wrap this up tomorrow and get it uploaded to GitHub pages.
+
+**Thoughts** Found that I tend to outthink myself when working through some of the logic in these projects, like reaching for more complex array methods when a more straightforward loop with a conditional is all I needed. I need to keep reminding myself to stick with the fundamentals and keep getting comfortable with those before trying to get too cute. 
+
+**Link(s) to work**
+
+1. [Skillcrush Guess-the-Word Project](https://github.com/MattPahuta/guess-the-word)
+
+
+
 ### Day 9: January 25, Tuesday
 
 **Today's Progress**: Built most of the logic for a word guessing game using vanilla JavaScript, pulling together a lot of fundamental JS concepts and DOM manipulation.
