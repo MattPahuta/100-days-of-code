@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 25, Tuesday
+
+**Today's Progress**: Built most of the logic for a word guessing game using vanilla JavaScript, pulling together a lot of fundamental JS concepts and DOM manipulation.
+
+**Thoughts** The Skillcrush project has been a good mix of fundamental JS concepts (arrays, functions, DOM manipulation, etc.) and giving me more practice at distilling problems down into smaller bits to tackle and then fitting it all together into a cohesive web app. Hoping to wrap up this project tomorrow.
+
+**Link(s) to work**
+
+1. [Skillcrush Guess-the-Word Project](https://github.com/MattPahuta/guess-the-word)
+
+
 ### Day 8: January 24, Monday
 
 **Today's Progress**: Finished module 5 of the Scrimba frontend dev career path with a few more responsive design challenges and a bit of JavaScript. Finished the the last two Skillcrush JS exercises, focussed on async/await functions, interacting with APIs.
@@ -28,7 +39,7 @@
 **Link(s) to work**
 
 1. [Scrimba Snake Game Project](https://codepen.io/mattpahuta/pen/JjrgLmP)
-2. [CSS Grid IMage Cards](https://codepen.io/mattpahuta/pen/yLzmKwQ)
+2. [CSS Grid Responsive Image Cards](https://codepen.io/mattpahuta/pen/yLzmKwQ)
 
 
 ### Day 5: January 21, Friday
