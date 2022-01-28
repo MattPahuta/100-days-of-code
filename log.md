@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 11: January 27, Thursday
+
+**Today's Progress**: Completed the guess-th-word game project from Skillcrush JS Fundamentals and published to GitHub pages. Most of the work was adding in the game reset/restart functionality, hooking up a new event listener, and some general code tiddying up. 
+
+**Thoughts** This project was fun to see come to life, but did contain a fair amount of hand-holding. It will be good to try and recreate a similar web app away from the tutorial in order to help set some of the concepts in my mind.
+
+**Link(s) to work**
+
+1. [Skillcrush Guess-the-Word Project](https://mattpahuta.github.io/guess-the-word/)
+
+
 ### Day 10: January 26, Wednesday
 
 **Today's Progress**: Nearly completed the Skillcrush word guessing game project, adding dynamic elements and most of the needed DOM features. More practice with loops, conditionals, string/array methods, and a bit of async functions. I should wrap this up tomorrow and get it uploaded to GitHub pages.
