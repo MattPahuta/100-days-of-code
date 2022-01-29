@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: January 28, Friday
+
+**Today's Progress**: Spent some time working through Scrimba, reviewing JS ES6, and then pivoted to revisiting another frontend mentor project, the Meet Landing Page.
+
+**Thoughts** I really need to figure out how to start refining my process of starting a new web page project, particularly organizing the styles and custom properties. It's really time consuming and I know I'm not all that efficient. Continuing to do Frontend Mentor projects should really help here to get that muscle memory going and build some better habits.
+
+
 ### Day 11: January 27, Thursday
 
 **Today's Progress**: Completed the guess-th-word game project from Skillcrush JS Fundamentals and published to GitHub pages. Most of the work was adding in the game reset/restart functionality, hooking up a new event listener, and some general code tiddying up. 
