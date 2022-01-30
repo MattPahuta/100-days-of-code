@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 29, Saturday
+
+**Today's Progress**: Continued work on the Meet landing page project, adding more styles and additional markup for the design spec.
+
+**Thoughts** More of the same, working to get more efficient with CSS styling.
+
 
 ### Day 12: January 28, Friday
 
