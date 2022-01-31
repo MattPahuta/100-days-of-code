@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 30, Sunday
+
+**Today's Progress**: More work on the Meet landing page project, tweaking general styles and begining layout, using mobile-first methodology.
+
+**Thoughts** Figuring out where best to use grid and where to use flex, combination of the two.
+
+
 ### Day 13: January 29, Saturday
 
 **Today's Progress**: Continued work on the Meet landing page project, adding more styles and additional markup for the design spec.
