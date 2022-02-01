@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 31, Monday
+
+**Today's Progress**: Another couple of hours dedicated to the Meet Landing page project, finishing up the mobile layout and styles.
+
+**Thoughts** Turns out this layout is simple enough that flexbox alone will handle everything I need it to do. Sometimes I jump to overcomplicating things when a more simple route is the best option. I need to keep remining myself of that particular pitfall. Complexity can come later, if needed.
+
 ### Day 14: January 30, Sunday
 
 **Today's Progress**: More work on the Meet landing page project, tweaking general styles and begining layout, using mobile-first methodology.
