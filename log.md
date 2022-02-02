@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 1, Tuesday
+
+**Today's Progress**: Completed a HTML/CSS design challenge from frontend mentor. 
+
+**Thoughts** These projects are just so invaluable to solidifying fundamental concepts, particularly with layouts and various CSS properties. They can be time-consuming, but I feel like it's well worth the effort and time.
+
+1. [Frontend Mentor Meet Landing Page Challenge](https://mattpahuta.github.io/meet-landing-page/)
+
+
 ### Day 15: January 31, Monday
 
 **Today's Progress**: Another couple of hours dedicated to the Meet Landing page project, finishing up the mobile layout and styles.
