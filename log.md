@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: February 3, Thursday
+
+**Today's Progress**: Worked through more JS exercises on Scrimba and began the final project in the Skillcrush JS course, working with the GitHub api and writing async functions and populating the DOM with pulled data. 
+
+**Thoughts** Still grinding. Happy to have another JS project underway to balance out the general practice exercises and study.
+
 ### Day 17: February 2, Wednesday
 
 **Today's Progress**: Worked through some review JS problems at Launch School, finished up more JS exercises over at Scrimba, and spent a bit of time watching the Wes Bos CSS Grid course, thinking about my next Frontend Mentor challenge.
