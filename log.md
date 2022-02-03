@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 2, Wednesday
+
+**Today's Progress**: Worked through some review JS problems at Launch School, finished up more JS exercises over at Scrimba, and spent a bit of time watching the Wes Bos CSS Grid course, thinking about my next Frontend Mentor challenge.
+
+**Thoughts** The day right after finishing a project always feels a little challenging, difficult not to feel something of a let down. This 100 days challenge is definitely helping to push through and stay on task.
+
 ### Day 16: February 1, Tuesday
 
 **Today's Progress**: Completed a HTML/CSS design challenge from frontend mentor. 
