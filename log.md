@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 5, Saturday
+
+**Today's Progress**: 20% of the way there! 
+
+**Thoughts** 
+
+
+### Day 19: February 4, Friday
+
+**Today's Progress**: More of the same today. Spent about an hour working through some JS challenges over at Scrimba before pivoting to the Skillcrush JS, getting closer to finishing the GitHub repo project.
+
+**Thoughts** The GitHub repo project has been great practice working with APIs and getting the hang of writing async functions, parsing specific data to use on the web page. Really looking forward to wrapping this project up and quickly moving on to another similar project that features the same sort of requirements.
+
+
 ### Day 18: February 3, Thursday
 
 **Today's Progress**: Worked through more JS exercises on Scrimba and began the final project in the Skillcrush JS course, working with the GitHub api and writing async functions and populating the DOM with pulled data. 
