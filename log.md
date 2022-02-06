@@ -2,9 +2,9 @@
 
 ### Day 20: February 5, Saturday
 
-**Today's Progress**: 20% of the way there! 
+**Today's Progress**: 20% of the way there! Light day today, but did manage some more work through the Wes Bos CSS Grid course and a handful of JS exercises through Launch School.
 
-**Thoughts** 
+**Thoughts** Everyday isn't going to be a major milestone, but happy to keep to the commitment and get at least a little meaningful work in.
 
 
 ### Day 19: February 4, Friday
