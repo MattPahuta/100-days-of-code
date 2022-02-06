@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 6, Sunday
+
+**Today's Progress**: Finished up the final project in the Skillcrush JavaScript course, the GitHub Repo Gallery page that pulls from GitHub's API.
+
+**Thoughts** This was a fun project and great practice for working with APIs and a bit of dynamic page manipulation. Looking forward to applying some of these techniques to future projects from Frontend Mentor.
+
+1. [GitHub Repo Gallery Code](https://github.com/MattPahuta/github-repo-gallery)
+2. [GitHub Repo Gallery - Live Site](https://mattpahuta.github.io/github-repo-gallery/)
+
 ### Day 20: February 5, Saturday
 
 **Today's Progress**: 20% of the way there! Light day today, but did manage some more work through the Wes Bos CSS Grid course and a handful of JS exercises through Launch School.
