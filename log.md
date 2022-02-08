@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 7, Monday
+
+**Today's Progress**: Spent some more time with the Wes Bos CSS Grid course before moving over to resume the Scrimba frontend dev career path, beginning to build a Pac-Man game with JavaScript.
+
+**Thoughts** Not a lot of dedicated time for coding today, but happy to get back to the Scrimba course after stepping away for a few days. I'm hoping to finish up the path within the next two months so I'll need to pick up the pace a bit.
+
+
 ### Day 21: February 6, Sunday
 
 **Today's Progress**: Finished up the final project in the Skillcrush JavaScript course, the GitHub Repo Gallery page that pulls from GitHub's API.
