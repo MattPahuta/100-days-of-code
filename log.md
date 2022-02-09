@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 8, Tuesday
+
+**Today's Progress**: Completed the Wes Bos CSS Grid course and did a few JS exercies on Launch School.
+
+**Thoughts** Limited time and energy today, a bit under the weather.
+
+
 ### Day 22: February 7, Monday
 
 **Today's Progress**: Spent some more time with the Wes Bos CSS Grid course before moving over to resume the Scrimba frontend dev career path, beginning to build a Pac-Man game with JavaScript.
