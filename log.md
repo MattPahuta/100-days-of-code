@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 22: February 8, Tuesday
+
+### Day 23: February 9, Wednesday
+
+**Today's Progress**: Made progress on the Scrimba JavaScript Pac-Man game and started a new Frontend Mentor challenge project - Art Gallery Website
+
+**Thoughts** A lot of the Pac-Man game thus far has been review of concepts I've covered before, but putting them together in a new way. It's great practice to continue getting familiar with core JS concepts and applying them to different solutions. The Art Gallery project is going to be a good follow-up to the Wes Bos CSS Grid course, as a lot of the layout looks very grid'ish.
+
+
+### Day 23: February 8, Tuesday
 
 **Today's Progress**: Completed the Wes Bos CSS Grid course and did a few JS exercies on Launch School.
 
