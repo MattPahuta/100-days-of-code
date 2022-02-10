@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
 
-### Day 23: February 9, Wednesday
+
+### Day 25: February 10, Thursday
+
+**Today's Progress**: Completed the Pac-Man game tutorial through Scrimba
+
+**Thoughts** The Pac-Man game was somewhat interesting as a means of reinforcing some fundamental JS concepts and techniques, but I found the that the instruction provided included a lot of gaps, some missing context and explanation, and generally felt a bit dated in the methodology. I might revist the code later to spruce it up a bit.
+
+
+### Day 24: February 9, Wednesday
 
 **Today's Progress**: Made progress on the Scrimba JavaScript Pac-Man game and started a new Frontend Mentor challenge project - Art Gallery Website
 
