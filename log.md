@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 10, Thursday
 
+**Today's Progress**: Worked on my latest Frontend Mentor challenge project today, the Art Gallery website. Would have liked to have gotten farther along, but some technical difficulties with my external monitor setup derailed me. Back at it tomorrow!
+
+**Thoughts** The gallery project presents some intesting layout challenges that are going to test my CSS skills. But the finished website is going to be attractive and more satisifying, I think, than the last one.
 
 ### Day 25: February 10, Thursday
 
