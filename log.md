@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 27: February 12, Saturday
+
+**Today's Progress**: Worked more on the Art Gallery website project, getting the mobile header section to design specs, adding more to the general styles from the design system.
+
+**Thoughts** This site is definitely presenting some layout challenges and taking quite a bit of time to get things working properly. It's a great learning opportunity.
+
+
 ### Day 26: February 11, Friday
 
 **Today's Progress**: Worked on my latest Frontend Mentor challenge project today, the Art Gallery website. Would have liked to have gotten farther along, but some technical difficulties with my external monitor setup derailed me. Back at it tomorrow!
