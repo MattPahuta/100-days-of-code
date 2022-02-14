@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 13, Sunday
+
+**Today's Progress**: Another couple hours dedicated to the Art Gallery project, finishing up the home page on mobile.
+
+**Thoughts** Again, I'm seeing the value of carefully planning out the design system and organizing the markup in advance of starting to style the page in earnest. I rushed to get started with this project and am paying the price in going back and reworking some elements of the markup that weren't thought out enough in the beginning. Lesson learned.
 
 ### Day 27: February 12, Saturday
 
