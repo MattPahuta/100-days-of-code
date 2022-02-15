@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 29: February 14, Monday
+
+**Today's Progress**: Began working through the next Scrimba module on APIs and put more work into the Gallery website project, getting most of the location page mobile layout in-place.
+
+**Thoughts** Limited time today, but happy that I'm past 50% through with the Gallery website and have gotten the next Scrimba module started.
+
+
 ### Day 28: February 13, Sunday
 
 **Today's Progress**: Another couple hours dedicated to the Art Gallery project, finishing up the home page on mobile.
