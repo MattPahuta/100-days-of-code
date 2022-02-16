@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 15, Tuesday
+
+**Today's Progress**: A few more hours on the Art Gallery project, finishing up nearly all of the location page, working to get the finished site as pixel perfect with the design comp as possible.
+
+**Thoughts** Getting close to finished with the Art Gallery site and pretty pleased with how it's turning out in general.
 
 ### Day 29: February 14, Monday
 
