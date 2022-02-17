@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 31: February 1, Wednesday
+
+**Today's Progress**: Continued working through the Scrimba API module and some additional touch-ups to the Art Gallery website.
+
+**Thoughts** Not a lot of time for coding today, but pleased to be making progress along the Scrimba path.
+
+
 ### Day 30: February 15, Tuesday
 
 **Today's Progress**: A few more hours on the Art Gallery project, finishing up nearly all of the location page, working to get the finished site as pixel perfect with the design comp as possible.
