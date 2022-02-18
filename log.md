@@ -1,7 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 17, Thursday
 
-### Day 31: February 1, Wednesday
+**Today's Progress**: Another few hours of work on the Art Gallery project today. A lot of trial and era with Grid and Flexbox properties, looking to match the design comp as close as possible.
+
+**Thoughts** I'm spending a lot more time than I probably should have to getting the Art Gallery site wrapped up, but I think a lot of it is artifically inflating the labor, testing out different ways to get the elements to land where they should and settling on what seems like the most straightforward and maintainable solution.
+
+### Day 31: February 16, Wednesday
 
 **Today's Progress**: Continued working through the Scrimba API module and some additional touch-ups to the Art Gallery website.
 
