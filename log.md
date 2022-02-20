@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 19, Saturday
+
+**Today's Progress**: After a day off to celebrate the Wife's B-day, back at it today with the Art Gallery website, nearly completing the project.
+
+**Thoughts** I'd hoped to finish this project today, but after trying for an hour to get the desktop hero section layout right with my existing Grid framework, I scraped the setup and pivoted to Flexbox, meaning I had to go back and re-work the tablet layout as well. A few hours later, I'm nearly there and shouldn't have any trouble completing the website tomorrow.
+
 ### Day 32: February 17, Thursday
 
 **Today's Progress**: Another few hours of work on the Art Gallery project today. A lot of trial and era with Grid and Flexbox properties, looking to match the design comp as close as possible.
