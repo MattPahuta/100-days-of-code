@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 20, Sunday
+
+**Today's Progress**: Finished up my latest Frontend Mentor project, the Art Gallery website. 
+
+**Thoughts** Though this project took a bit longer than I had anticipated, I feel pretty good about the final result. I've managed to match the design comp very closely and had an opportunity to practice some interesting grid and flexbox combinations in order to achieve the layout. I plan to revisit this project in order to integrate an interactive map using a JS library.
+
+1. [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-twopage-site-using-css-grid-and-flexbox--vDSb8yNr)
+2. [GitHub Pages Live URL](https://mattpahuta.github.io/art-gallery-website/index.html)
+
+
 ### Day 33: February 19, Saturday
 
 **Today's Progress**: After a day off to celebrate the Wife's B-day, back at it today with the Art Gallery website, nearly completing the project.
