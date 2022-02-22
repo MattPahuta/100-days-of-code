@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 35: February 21, Monday
+
+**Today's Progress**: Several hours working through the Scrimba API module today, getting more practice working with json data as well as some more DOM manipulation and brushing up on HTTP and fetch request methods.
+
+**Thoughts** Looking to pickup the pace with the Scrimba course now and make JavaScript a focus this week before settling on my next frontend mentor project.
+
+
 ### Day 34: February 20, Sunday
 
 **Today's Progress**: Finished up my latest Frontend Mentor project, the Art Gallery website. 
