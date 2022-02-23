@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 22, Tuesday
+
+**Today's Progress**: Continued the Scrimba career path today, finishing off the Blogspace API project. Also resumed the FCC JS algorithms and data structures track, getting past 50% of the regex module.
+
+**Thoughts** A day of tutorials and short lessons is tedious. Anxious to get started on another project. But I'd been putting off going back to FCC for a while and I'm happy to begin tackling the regex content, which I'd been low-key avoiding for a while.
+
 
 ### Day 35: February 21, Monday
 
