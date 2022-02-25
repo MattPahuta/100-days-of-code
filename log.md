@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+
+### Day 38: February 24, Thursday
+
+**Today's Progress**: Finished up regular expressions on free code camp and completed a small Scrimba project, a unit conversion web app (still need to make it dynamic).
+
+**Thoughts** Retaining what was covered in the regex module is going to be impossible. I understand the methodology, but will need a lot of practice to really get the hang of employing them in my work.
+
+
+### Day 37: February 23, Wednesday
+
+**Today's Progress**: Built a random quote generator web app, connecting to an API, as part of the zero to mastery JS projects course.
+
+**Thoughts** The quote generator was good practice with async functions, DOM manipulation, and working with a simple API.
+
+
 ### Day 36: February 22, Tuesday
 
 **Today's Progress**: Continued the Scrimba career path today, finishing off the Blogspace API project. Also resumed the FCC JS algorithms and data structures track, getting past 50% of the regex module.
