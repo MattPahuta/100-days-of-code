@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 39: February 25, Friday
+
+**Today's Progress**: Tweaked the unit conversion app to make it dynamic, adding a form input for user to enter any number value. It's still very rudimentary, but basically functional and something that can be built upon later for similar projects. A bit more progress on the Scrimba API module as well.
+
+**Thoughts** A relatively light day today. Looking forward to getting back at it tomorrow.
+
+
 ### Day 38: February 24, Thursday
 
 **Today's Progress**: Finished up regular expressions on free code camp and completed a small Scrimba project, a unit conversion web app (still need to make it dynamic).
