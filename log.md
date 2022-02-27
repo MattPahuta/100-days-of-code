@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 40: February 25, Friday
+### Day 41: February 27, Sunday
+
+**Today's Progress**: Added a pw length selection field and functionality to the pw generator.
+
+**Thoughts** Spent a lot of time trying to figure out how to implement a one-click copy function for the generated pws. Think I've go it now, but still need to implement in the project.
+
+### Day 40: February 26, Saturday
 
 **Today's Progress**: Built a simple password generator for the Scrimba path, practicing some array methods and Math.random().
 
