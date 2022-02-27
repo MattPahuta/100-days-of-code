@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 40: February 25, Friday
+
+**Today's Progress**: Built a simple password generator for the Scrimba path, practicing some array methods and Math.random().
+
+**Thoughts** Another slow day today but I have high hopes for the week ahead.
 
 ### Day 39: February 25, Friday
 
