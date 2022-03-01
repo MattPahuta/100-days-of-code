@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 28, Monday
+
+**Today's Progress**: Success! Figured out the one-click copy for the password generator, using the navigator.clipboard method for the first time. That was a nice win. Also started another small project through the Wes Bos Beginner JS course, a shopping form (todo list) that's turning out to be a good refresher on a variety of topics.
+
+**Thoughts** The Wes Bos project will be a good precursor to a similar project that's up next in the Scrimba path.
+
+
 ### Day 41: February 27, Sunday
 
 **Today's Progress**: Added a pw length selection field and functionality to the pw generator.
