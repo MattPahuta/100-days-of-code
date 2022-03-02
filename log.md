@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 43: March 1, Tuesday
+
+**Today's Progress**: Finished the Wes Bos JS project and started in on the next Scrimba solo project, the invoice creator.
+
+**Thoughts** The layout of the invoice creator was deceptively complex and took a while to lay all the styles and markup groundwork. I'll start in on the logic tomorrow, taking a lot of the lessons from the last Wes Bos project and applying them here.
+
+
 ### Day 42: February 28, Monday
 
 **Today's Progress**: Success! Figured out the one-click copy for the password generator, using the navigator.clipboard method for the first time. That was a nice win. Also started another small project through the Wes Bos Beginner JS course, a shopping form (todo list) that's turning out to be a good refresher on a variety of topics.
