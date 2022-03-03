@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 44: March 2, Wednesday
+
+**Today's Progress**: Finished the invoice creator Scrimba project today. 
+
+**Thoughts** I feel like I totally over-engineered this project and had to stop and start several different methods before getting it all done, but it was good practice with a variety of JS concepts, particularly array methods, working with objects, and DOM manipulation.
+
 ### Day 43: March 1, Tuesday
 
 **Today's Progress**: Finished the Wes Bos JS project and started in on the next Scrimba solo project, the invoice creator.
