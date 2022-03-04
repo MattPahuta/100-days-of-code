@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 45: March 3, Thursday
+
+**Today's Progress**: A lot of miscellaneous stuff today including some CSS videos from Steph Eckles, a bit more along the Scrimba FEWD path, and getting started on another Frontend Mentor project.
+
+**Thoughts** Looking forward to a bit more focus of effort tomorrow.
+
 
 ### Day 44: March 2, Wednesday
 
