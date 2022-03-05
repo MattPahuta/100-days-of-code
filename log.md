@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 47: March 5, Saturday
+
+**Today's Progress**: About an hour working through the Scrimba path, practicing Object destructuring, Array constructors, map, join, and fill methods. Also about an hour working on the Typemaster frontend mentor project, mainly setting up design system styles and preping for the rest of the site build.
+
+**Thoughts** These early stages of the website projects always feel time consuming. I'll need to work on setting up a more robust set of templates to get things off the ground a bit faster.
+
+
 ### Day 46: March 4, Friday
 
 **Today's Progress**: More progress along the Scrimba path today as well as another couple of Steph E video tutorials on egghead.io. Also a bit of work on one of the two frontend mentor projects I've started.
