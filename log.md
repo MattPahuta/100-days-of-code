@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 46: March 4, Friday
+
+**Today's Progress**: More progress along the Scrimba path today as well as another couple of Steph E video tutorials on egghead.io. Also a bit of work on one of the two frontend mentor projects I've started.
+
+**Thoughts** Hit a bit of a lull in my progress these last two days, but I think I can regain my focus soon. Spreading myself too thin this last week hasn't helped.
+
+
 ### Day 45: March 3, Thursday
 
 **Today's Progress**: A lot of miscellaneous stuff today including some CSS videos from Steph Eckles, a bit more along the Scrimba FEWD path, and getting started on another Frontend Mentor project.
