@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 48: March 6, Sunday
+
+**Today's Progress**: Spent some time checking in on the Wes Bos JS course, building out a image gallery with a modal, plus another hour-plus work on the Typemaster website project, sorting out most of the markup and figuring out how to organize the grid setup.
+
+**Thoughts** The typemaster project is deceptively complex, as far as the various grid layouts need to be for the various screen sizes. It's definitely a challenge.
 
 ### Day 47: March 5, Saturday
 
