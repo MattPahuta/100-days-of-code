@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49: March 7, Monday
+
+**Today's Progress**: More progress along the Scrimba path today, working with Constructor functions to create a more modular code base.
+
+**Thoughts** Working with the Constructor functions and destructuring objects is turning out to quite a bit of fun. They're going to be hugely important as I move toward building more complex apps.
+
 ### Day 48: March 6, Sunday
 
 **Today's Progress**: Spent some time checking in on the Wes Bos JS course, building out a image gallery with a modal, plus another hour-plus work on the Typemaster website project, sorting out most of the markup and figuring out how to organize the grid setup.
