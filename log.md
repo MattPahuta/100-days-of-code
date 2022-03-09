@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 50: March 8, Tueday
+
+**Today's Progress**: Finished off the second part of four for the latest Scrimba module and spent more time on the Typemaster project.
+
+**Thoughts** Rough day. Sleep deprived and felt frustrated by my attempts to make a Grid layout work properly. Back at it tomorrow.
+
 ### Day 49: March 7, Monday
 
 **Today's Progress**: More progress along the Scrimba path today, working with Constructor functions to create a more modular code base.
