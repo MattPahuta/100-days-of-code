@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 51: March 9, Wednesday
+
+**Today's Progress**: All my time devoted to the typemaster website today.
+
+**Thoughts** Really went down the rabbit hole with Grid today and don't have a lot to show for it. Frustrating week.
+
+
 ### Day 50: March 8, Tueday
 
 **Today's Progress**: Finished off the second part of four for the latest Scrimba module and spent more time on the Typemaster project.
