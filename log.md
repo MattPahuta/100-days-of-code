@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 52: March 10, Thursday
+
+**Today's Progress**: More time into the typemaster site today, finally getting the majority of the grid layouts sorted. Also another hour of Scrimba plus some time on the Skillcrush slack channel, helping a peer.
+
+**Thoughts** Looking forward to finishing the typemaster site and putting it behind me. I really enjoy helping others in the slack channel or on discord, so there's an extra level of motivation to get proficient in JS and other topics so I can continue to help out others.
+
 
 ### Day 51: March 9, Wednesday
 
