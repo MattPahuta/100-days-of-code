@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 53: March 11, Friday
+
+**Today's Progress**: Just a couple of hours available today, but did manage to knock off the mobile and tablet layouts for the typemaster project.
+
+**Thoughts** CSS can be the devil sometimes. I've gone around in circles with some of the positioning of elements with this design and often times ended up with the simpler of the options tried. Looking forward to getting this project behind me and making JavaScript a focus again.
+
+
 ### Day 52: March 10, Thursday
 
 **Today's Progress**: More time into the typemaster site today, finally getting the majority of the grid layouts sorted. Also another hour of Scrimba plus some time on the Skillcrush slack channel, helping a peer.
