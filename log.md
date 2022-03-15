@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 55: March 14, Monday
+
+**Today's Progress**: Got back to the Scrimba path today as well as the FCC curriculum.  Also started another frontend mentor project.
+
+**Thoughts** Took the day off yesterday partially due to the daylight saving time change and found it was tough ramping back up today. Looking forward to more focused work as the week goes on.
+
+
 ### Day 54: March 12, Saturday
 
 **Today's Progress**: Completed the Typemaster frontend mentor project.
 
 **Thoughts** Really pleased to be done with this one.
+
+1. [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-and-flexbox-CESJDE4Wu)
+2. [GitHub Pages Live URL](https://mattpahuta.github.io/typemaster-landing-page/)
 
 
 ### Day 53: March 11, Friday
