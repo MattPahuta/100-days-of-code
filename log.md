@@ -1,13 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 57: March 16, Wednesday
+
+**Today's Progress**: Polished off the testimonials grid project as well as finishing off part 3 of 4 of the Scrimba 'build and RPG' course, learning and practicing modern JS techniques. Also spent some time on the FCC JS curriculum.
+
+**Thoughts** The frontend mentor mini-project was good to reset my Grid layout techniques and I'm feeling good about getting close to turning the page with the Scrimba path, moving on to the next sections soon.
+
+1. [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-card-layout-using-css-grid-qI8DL37dU)
+2. [Live Vercel URL](https://testimonials-grid-swart.vercel.app/)
+
+
 ### Day 56: March 15, Tuesday
 
 **Today's Progress**: More work on the Scrimba path today as well as a quick frontend mentor project to practice Grid fundamentals.
 
 **Thoughts** After ending up with a much too complex set of Grid parameters on my last project, the smaller Grid project was helpful to reset some of my understanding around the concept and remember to always start as simply as possible.
 
-1. [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/)
-2. [GitHub Pages Live URL](https://mattpahuta.github.io/)
 
 ### Day 55: March 14, Monday
 
