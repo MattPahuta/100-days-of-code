@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 58: March 17, Thursday
+
+**Today's Progress**: Finished the final portion of the Scrimba 'build an RPG' course, introducing Classes and replacing the previous iteration of the character constructor function with a Class. Also revisited the Udemy web dev course with Colt Steele, reviewing the API module and beginning to prep for the next solo Scrimba project - a color scheme generator that pulls from The Color API.
+
+**Thoughts** It'll take a good deal more practice to get the hang of using Classes but I can already begin to see just how valuable they can be, making code more modular, and preparing to dive into React. 
+
+
 ### Day 57: March 16, Wednesday
 
 **Today's Progress**: Polished off the testimonials grid project as well as finishing off part 3 of 4 of the Scrimba 'build and RPG' course, learning and practicing modern JS techniques. Also spent some time on the FCC JS curriculum.
