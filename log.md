@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 59: March 18, Friday
+
+**Today's Progress**: Worked more on the Scrimba solo project, a color scheme generator using the color API. 
+
+**Thoughts** Low energy and low bandwidth day today, but did manage to work out the basic logic I need to make the app work. Just need to cleanup the code, sort out the DOM manipuluation, and make it prettier. Hopefully I'll get to all that this weekend.
+
+
 ### Day 58: March 17, Thursday
 
 **Today's Progress**: Finished the final portion of the Scrimba 'build an RPG' course, introducing Classes and replacing the previous iteration of the character constructor function with a Class. Also revisited the Udemy web dev course with Colt Steele, reviewing the API module and beginning to prep for the next solo Scrimba project - a color scheme generator that pulls from The Color API.
