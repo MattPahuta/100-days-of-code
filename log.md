@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 61: March 20, Sunday
+
+**Today's Progress**: Finished up the color generator project today, adding the click-to-copy functionality and tightening up the markup, styles, and JS.
+
+**Thoughts** I'm really pleased to have finished this one without too much trouble and am reasonably happy with the final product. It's not quite portfolio quality yet, but a little more polish can get it to that level, I think. All in all, glad to be moving forward to the next thing.
+
+1. [GitHub Repo](https://github.com/MattPahuta/color-scheme-generator)
+2. [Live Vercel URL](https://color-scheme-generator-iota.vercel.app/)
 
 ### Day 60: March 19, Saturday
 
