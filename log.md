@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 60: March 19, Saturday
+
+**Today's Progress**: More work on the color scheme generator app, getting the API call and markup generation working well. Also resived the layout and styles, working to tighten things up.
+
+**Thoughts** Using just standard fetch API for this one since that's where we're at in the Scrimba curriculum. Having worked with async functions a bit I can see how this app could potentially work better. 
+
+
 ### Day 59: March 18, Friday
 
 **Today's Progress**: Worked more on the Scrimba solo project, a color scheme generator using the color API. 
