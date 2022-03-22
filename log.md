@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 62: March 21, Monday
+
+**Today's Progress**: Started in on the next module of the Scrimba program today, focusing on callback function work and building toward async functions. Also put in an hour of work over at free code camp.
+
+**Thoughts** Limited time and energy for this today, but feeling optimistic about the week ahead.
+
+
 ### Day 61: March 20, Sunday
 
 **Today's Progress**: Finished up the color generator project today, adding the click-to-copy functionality and tightening up the markup, styles, and JS.
