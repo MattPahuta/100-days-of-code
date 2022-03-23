@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 63: March 22, Tuesday
+
+**Today's Progress**: More time over at free code camp today working through javascript algorithm challenges before spending some good time working through the scrimba path, working with async functions and getting a better handle on how promises work. 
+
+**Thoughts** This was a ramp up day, getting some required building block tasks going before starting in on my next significant project, probably over at frontend mentor.
+
 ### Day 62: March 21, Monday
 
 **Today's Progress**: Started in on the next module of the Scrimba program today, focusing on callback function work and building toward async functions. Also put in an hour of work over at free code camp.
