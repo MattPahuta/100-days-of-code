@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 64: March 23, Wednesday
+
+**Today's Progress**: Finished the card game tutorial over at scrimba, working with API data and some basic DOM manipulation.
+
+**Thoughts** Light day today but ready to start a new project tomorrow.
+
 
 ### Day 63: March 22, Tuesday
 
