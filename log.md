@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 24, Thursday
+
+**Today's Progress**: Spent some time getting through the JavaScript algorithm challenges over at free code camp and started in on the next Scrimba solo project; A movie watchlist creator using the Open Movie DB API and local storage. 
+
+**Thoughts** This movie watchlist project looks like it's going to be fun but I'll need to brush up again on utilizing local storage. I remember it's fairly simple but I just haven't used it that frequently. It'll be good practice all around.
+
+
 ### Day 64: March 23, Wednesday
 
 **Today's Progress**: Finished the card game tutorial over at scrimba, working with API data and some basic DOM manipulation.
