@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 66: March 25, Friday
+
+**Today's Progress**: A few more challenges in the books over at free code camp but the bulk of my day was dedicated to starting the movie watchlist app in earnest. Wired up API calls, refined the data coming back, and planned out the other functions and DOM manipulation I'll need to incorporate.
+
+**Thoughts** This movie watchlist project is going to be more substantial than I initially thought. The API calls are straightforward and local storage shouldn't be too much trouble, but the finer details of the UI, like indicated which movies are already on the watchlist, might prove a bit tricky. 
+
 ### Day 65: March 24, Thursday
 
 **Today's Progress**: Spent some time getting through the JavaScript algorithm challenges over at free code camp and started in on the next Scrimba solo project; A movie watchlist creator using the Open Movie DB API and local storage. 
