@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 67: March 26, Friday
+
+**Today's Progress**: Another hour of JavaScript challenges over at free code camp and then a couple working on the movie watchlist app, primarily styling up the search form and planning out the movie results cards.
+
+**Thoughts** The CSS to get everything looking good will easily take three or four times as long for me than the JS that pulls and manipulates the data.
 
 ### Day 66: March 25, Friday
 
