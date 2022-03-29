@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 67: March 26, Friday
+### Day 68: March 28, Monday
+
+**Today's Progress**: More progress through the free code camp JS curriculum, solving a handful of algorithm challenges as well as some general CSS study/research.
+
+**Thoughts** Limited bandwidth today so no full-fledged project work. 
+
+### Day 67: March 26, Saturday
 
 **Today's Progress**: Another hour of JavaScript challenges over at free code camp and then a couple working on the movie watchlist app, primarily styling up the search form and planning out the movie results cards.
 
