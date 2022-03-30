@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 69: March 29, Tuesday
+
+**Today's Progress**: Worked mainly with the Scrimba material today, building out a Momentum browser extension clone with several APIs and vanilla JS.
+
+**Thoughts** Interacting with real data coming back from these APIs is great fun. It's one of the parts of working with JavaScript that reinforces how much I love the web development stuff.
+
+
 ### Day 68: March 28, Monday
 
 **Today's Progress**: More progress through the free code camp JS curriculum, solving a handful of algorithm challenges as well as some general CSS study/research.
