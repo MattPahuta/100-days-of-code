@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 70: March 30, Wednesday
+
+**Today's Progress**: With not much time today, worked on the Free Code Camp curriculum, making my ways through the JS algorithm and data structures track.
+
+**Thoughts** Back to projects tomorrow.
+
 ### Day 69: March 29, Tuesday
 
 **Today's Progress**: Worked mainly with the Scrimba material today, building out a Momentum browser extension clone with several APIs and vanilla JS.
