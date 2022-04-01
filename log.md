@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 71: March 31, Thursday
+
+**Today's Progress**: Made good progress on both the the momentum clone and the movie watchlist app today.
+
+**Thoughts** The CSS for populating the movie watchlist is way more time consuming than the actual pulling data from the API, but it's fun to see the end product on the screen. The Momentum clone is great practice, reinforcing how promises work and adding in some error catching. 
+
 ### Day 70: March 30, Wednesday
 
 **Today's Progress**: With not much time today, worked on the Free Code Camp curriculum, making my ways through the JS algorithm and data structures track.
