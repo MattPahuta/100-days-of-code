@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 73: April 2, Saturday
+
+**Today's Progress**:
+
+**Thoughts**
+
+
+### Day 72: April 6, Wednesday
+
+**Today's Progress**: A lot of course work through the Scrimba path today as well as some free code camp. 
+
+**Thoughts** I've been neglecting updating this log the last few days, so I'll just have to tack on an extra week or so, I think.
+
 ### Day 71: March 31, Thursday
 
 **Today's Progress**: Made good progress on both the the momentum clone and the movie watchlist app today.
