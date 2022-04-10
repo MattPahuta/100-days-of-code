@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
 
-### Day 73: April 2, Saturday
+### Day 73: April 9, Saturday
 
-**Today's Progress**:
+**Today's Progress**: Free code camp and Scrimba today.
 
-**Thoughts**
+**Thoughts** Object oriented JS review and more API work.
 
 
 ### Day 72: April 6, Wednesday
